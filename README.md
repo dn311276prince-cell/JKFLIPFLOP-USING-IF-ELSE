@@ -68,10 +68,14 @@ endmodule
 Developed By: Madeshwaran D Reg No: 25017539
 
 **RTL LOGIC FOR FLIPFLOPS**
-![alt text](<Screenshot 2025-12-15 113825.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-12-15 113825" src="https://github.com/user-attachments/assets/7bf109ac-d9de-47e9-8cb7-dd5134060ec1" />
+
+
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![alt text](<Screenshot 2025-12-15 114940.png>)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e217e9a-abf8-4d9c-a2cc-41fa2769834c" />
+
 
 **RESULTS**
 Thus the JK Flip Flop circuits are designed and the truth tables is verified using Quartus software.
