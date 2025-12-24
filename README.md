@@ -74,7 +74,8 @@ Developed By: Madeshwaran D Reg No: 25017539
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-https://github.com/Sanjeev-123-hub/JKFLIPFLOP-USING-IF-ELSE/blob/main/Screenshot%202025-12-15%20114940.png
+<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/1cfe2982-b029-48dc-805a-71f5690a295c" />
+
 
 
 **RESULTS**
