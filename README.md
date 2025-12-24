@@ -65,16 +65,16 @@ qbar<=~q;
 end
 endmodule
 ```
-Developed By: Madeshwaran D Reg No: 25017539
+Developed By: Madhesh V Reg No: 25016451
 
 **RTL LOGIC FOR FLIPFLOPS**
-<img width="1920" height="1080" alt="Screenshot 2025-12-15 113825" src="https://github.com/user-attachments/assets/7bf109ac-d9de-47e9-8cb7-dd5134060ec1" />
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/684e5d38-485f-4268-80bf-367b6f0a129e" />
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dd1cf3f-98c6-4331-85e5-74534f614ae5" />
 
 
 **RESULTS**
 Thus the JK Flip Flop circuits are designed and the truth tables is verified using Quartus software.
+
