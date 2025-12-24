@@ -74,7 +74,6 @@ Developed By: Madeshwaran D Reg No: 25017539
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/6f1c30d8-97d5-4495-a57f-972c499896c1" />
 
 
 **RESULTS**
